@@ -1,5 +1,7 @@
 # 10€ closed loop control 3D printer from old inkjet printers
 
+![Schematic](http://lizzit.it/wp-content/uploads/2017/08/stampante3dinket_bb_edit-1024x712.jpg)
+
 |                 | Arduino Pin |
 |-----------------|--------|
 | Encoder 1 pin 1 | 2      |
