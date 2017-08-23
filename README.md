@@ -1,4 +1,4 @@
-# 10€ closed loop control 3D printer from old inkjet printers
+# Closed loop control 3D printer from old inkjet printers
 
 _More informations on the project are available on the [project website](https://lizzit.it/printer)_
 
